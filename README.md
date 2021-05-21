@@ -1,12 +1,4 @@
 
-<p align="center">
-  <a href="https://github.com/FoxGreedy">
-    <img src="https://i.imgur.com/RadC5Gt.png" width="160">
-  </a>
-</p>
-
-<hr />
-
 ## SOLID Conjunto de principios:
 
 ```
@@ -30,3 +22,11 @@ _http://localhost:3333/users_
 ```
 
 **OBS: Foi utilizado o uuidv4 para gerar um id único, não necessitando de dependencias externas de bancos**
+
+<hr />
+
+<p align="center">
+  <a href="https://github.com/FoxGreedy">
+    <img src="https://i.imgur.com/RadC5Gt.png" width="160">
+  </a>
+</p>
